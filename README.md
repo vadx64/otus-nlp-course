@@ -1,2 +1,2 @@
 # otus-nlp-course
-NLP course by OTUS
+The assignments to 'Natural Language Processing` course by OTUS
